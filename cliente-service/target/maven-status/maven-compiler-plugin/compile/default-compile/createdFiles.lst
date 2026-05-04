@@ -1,0 +1,7 @@
+com\octavo\cliente\clientes\Cliente.class
+com\octavo\cliente\clientes\ClienteServiceImpl.class
+com\octavo\cliente\clientes\ClienteController.class
+com\octavo\cliente\ClienteApplication.class
+com\octavo\cliente\clientes\ClienteRepository.class
+com\octavo\cliente\clientes\ClienteDTO.class
+com\octavo\cliente\clientes\ClienteService.class
